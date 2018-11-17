@@ -1,2 +1,1 @@
-# Portfolio-1
-Portfolio of completed projects.
+Webpage with complete HTML/CSS projects.
