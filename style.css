@@ -1,4 +1,6 @@
-
+section {
+    height: 100vh;
+}
 .project-tile-image {
     width: 20%;
 }
