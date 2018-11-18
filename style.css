@@ -1,0 +1,15 @@
+
+.project-tile-image {
+    width: 20%;
+}
+
+#welcome_section {
+    background: red;
+}
+
+@media (max-width: 500px) {
+#welcome_section {
+    background: yellowgreen;
+}
+    
+}
