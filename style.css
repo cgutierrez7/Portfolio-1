@@ -1,6 +1,3 @@
-section {
-    height: 100vh;
-}
 .project-tile-image {
     width: 20%;
 }
@@ -8,8 +5,13 @@ section {
 .profile-image {
     width: 10%;
 }
-#welcome_section {
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
     background: red;
+    justify-content: center;
+    align-items: center; 
 }
 
 @media (max-width: 500px) {
