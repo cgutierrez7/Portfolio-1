@@ -5,6 +5,9 @@ section {
     width: 20%;
 }
 
+.profile-image {
+    width: 10%;
+}
 #welcome_section {
     background: red;
 }
