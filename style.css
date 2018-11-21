@@ -20,32 +20,32 @@ header {
     width: 35%;
     min-height: 3em;
 }
-
 .nav-container > div {
     /*background: black;*/
     margin: auto;
     text-align: center;
 }
-
 .nav-list {
     text-decoration-line: none;
     color: white;
     font-size: 1.3em;
 }
-
 .nav-list:hover {
     color: gray;
 }
 
+#projects {
+    padding-top: 3em;
+    margin-top: -3em;
+}
 .projects-box {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
-
 .project-tile {
     width: 50%;
-    align-items: center;
 }
 
 .project-tile-image {
@@ -55,6 +55,12 @@ header {
 .profile-image {
     width: 10%;
 }
+
+#contact {
+    padding-top: 3em;
+    margin-top:-3em;
+}
+
 #welcome-section {
     display: flex;
     flex-direction: column;
