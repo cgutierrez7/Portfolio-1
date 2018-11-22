@@ -39,13 +39,18 @@ header {
     margin-top: -3em;
 }
 .projects-box {
+    margin: auto;
+    padding: auto;
+    background: grey;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
 }
 .project-tile {
-    width: 50%;
+    margin: auto;
+    padding: auto;
+    width: 40%;
 }
 
 .project-tile-image {
